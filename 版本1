@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>纪念刘喆</title>
+</head>
+  <body>
+  <h1 align="center">About Me</h1>
+  <img src="http://musicdata.baidu.com/data2/pic/5dd1ba70bb3e2d9d7fc79cd614130c8c/93104033/93104033.jpg@s_1,w_180,h_180",hight="200",width="200",border="5">
+  <hr/>
+    <nav>
+    <ol>
+    <li><a href="#">随便说两句</a></li>
+    <li><a href="#">follow me </a></li>
+    </ol>
+    </nav>
+    <article>
+    <h1>人民政府</h1>
+     <div style="background-color:black;color:white;padding:20px>
+      <p align="center">转发为他续一秒吧！</p>
+      <hr/>
+      <p><strong>刘喆</strong>，一个清冷而孤高的男人。</p>
+      <p>如你所见，他的生命，已经走到尽头。</p>
+      生命进程:<progress min="0"max="200"value="180">
+      <p>但他不会认输。</br>他还要为人民服务！</p>
+      </progress>
+      <h1>百家争鸣</h1>
+      <p>不晓得说什么</p>
+      <p>就请送上掌声吧</p>
+    
+      <audio src="http://music.163.com/#/song?id=27955653"controls autoplay loop>
+      </audio>
+      </div>
+     </article>
+  </body>
+</html>
